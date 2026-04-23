@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.glubapp.glub",
       "sha256_cert_fingerprints": [
-        "F2:31:27:1F:BD:B9:23:3F:7B:87:4A:55:1B:11:62:C7:25:C5:5D:87:3C:F3:87:7D:D2:4C:B6:4B:32:99:3A:2C"
+        "F2:31:27:1F:BD:B9:23:3F:7B:87:4A:55:1B:11:62:C7:25:C5:5D:87:3C:F3:87:7D:D2:4C:B6:4B:32:99:3A:2C",
+        "3C:C2:D0:EC:72:58:7A:8E:E3:AE:4C:C6:12:B6:A2:FD:88:B7:66:D1:92:A1:A1:87:4F:A7:57:3C:4B:7E:64:91"
       ]
     }
   }
